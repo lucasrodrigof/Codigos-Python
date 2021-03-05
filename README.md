@@ -47,4 +47,3 @@ while a % b != 0:
  a, b = b, a%b
  
 print(f"O mdc de seu número é: {b}")
-Teste
